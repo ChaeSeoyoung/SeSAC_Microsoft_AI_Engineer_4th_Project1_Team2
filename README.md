@@ -1,6 +1,8 @@
 # 🚌 LightBus
 🏆 심사 및 투표 결과 1위 팀으로 선정
 
+![LightBus Logo](docs/LightBus_Logo.jpg)
+
 > 시각 및 인지 약자를 위한 지능형 음성 버스 탑승 안내 솔루션
 
 **"들리는 시야, 막힘없는 이동"**
